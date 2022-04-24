@@ -11,6 +11,9 @@
 # production
 /build
 
+#Edutorial files
+/src/components/educational/educational
+
 # misc
 .DS_Store
 .env.local
