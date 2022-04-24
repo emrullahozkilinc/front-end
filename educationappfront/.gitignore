@@ -12,7 +12,7 @@
 /build
 
 #Edutorial files
-/src/components/educational/educational
+/src/components/educational
 
 # misc
 .DS_Store
