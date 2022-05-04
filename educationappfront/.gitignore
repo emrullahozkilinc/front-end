@@ -13,6 +13,7 @@
 
 #Edutorial files
 /src/components/educational
+!/src/components/educational/mymovies/*
 
 # misc
 .DS_Store
